@@ -1,0 +1,29 @@
+
+* {
+  font-size: x-large;
+}
+
+p {
+  width: 100%;
+  text-align: center;
+  padding: 0 10px 0 10px;
+}
+
+.left {
+  position: fixed;
+  bottom:0px;
+  width:49%;
+}
+
+.right {
+  position: fixed;
+  bottom:0px;
+  right:0px;
+  width:49%;
+}
+
+ion-footer {
+  margin-bottom: 80px;
+  font-size: 1em;
+  text-align: center;
+}
